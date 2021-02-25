@@ -1,4 +1,4 @@
-# Weather Forcast React
+# Weather Forecast React
 
 > It is your live weather forcast tracker,which gives accurate weather information for anytime and everywhere. It is your live weather forcast tracker, which gives accurate weather information for anytime and everywhere. This will help the users to make an informed decision whether to plan a picnic on a specific date or plan your holidays in a specific city or country accordingly.
 
